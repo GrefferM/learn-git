@@ -1,2 +1,1 @@
-# learn-git
-# test git command
+# learn-git ammend
